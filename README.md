@@ -46,9 +46,9 @@ With the rising global energy demands and the urgency to reduce greenhouse gas e
 - Floating Devices – PowerBuoy  
 - Partially Submerged – Oscillating Surge Converter  
 - Fully Submerged – Archimedes Wave Swing  
-
+<!--
 <img width="401" height="191" alt="image" src="diagram.png" />
-
+-->
 
 ---
 
